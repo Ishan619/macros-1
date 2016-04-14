@@ -1,8 +1,9 @@
 Sub IEEE_2_column_body()
 '
 ' IEEE_2_column_body Macro
-'
-'
+' Author: Brandon Thayer
+' Purpose: Creates a two column body style that corresponds to IEEE standards
+
     Selection.WholeStory
     With ActiveDocument.Styles(wdStyleNormal).Font
         If .NameFarEast = .NameAscii Then
