@@ -1,5 +1,8 @@
 Sub IEEE_2_column_body()
 '
+' Need proper title
+' Add comments to specify your steps of achiving the goal
+' Adding an abstract to this document would make it simpler to understand 
 ' IEEE_2_column_body Macro
 '
 '
